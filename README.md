@@ -1,9 +1,9 @@
-### OLÁ SEJA BEM VINDO AO MEU GITHUB👋
+                                                      ### OLÁ SEJA BEM VINDO AO MEU GITHUB👋
 
-- 🔭 Atualmente estou trabalhando na landing page da www.expaseway.com
-- 🌱 Estou me aperfeiçoando em **React, TypeScript, Graphql, Node**
-- 📫 Como chegar até mim: kelson.m.camargo@hotmail.com
-- 😄 Pronomes: Ele/Dele
+                                     🔭 Atualmente estou trabalhando na landing page da www.expaseway.com
+                                     🌱 Estou me aperfeiçoando em **React, TypeScript, Graphql, Node**
+                                     📫 Como chegar até mim: kelson.m.camargo@hotmail.com
+                                     😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/kelson-M-C">
