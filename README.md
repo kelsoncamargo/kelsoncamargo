@@ -1,4 +1,4 @@
-                                                      ### OLÁ SEJA BEM VINDO AO MEU GITHUB👋
+                                                    # OLÁ SEJA BEM VINDO AO MEU GITHUB👋
 
                                      🔭 Atualmente estou trabalhando na landing page da www.expaseway.com
                                      🌱 Estou me aperfeiçoando em **React, TypeScript, Graphql, Node**
