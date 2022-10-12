@@ -1,7 +1,8 @@
                                                      OLÁ SEJA BEM VINDO AO MEU GITHUB👋
-
+          
                                      🔭 Atualmente estou trabalhando na landing page da www.expaseway.com
-                                     🌱 Estou me aperfeiçoando em **React, TypeScript, Graphql, Node**
+                                     🚀 Começando a estudar React Native
+                                     🌱 Estou me aperfeiçoando em React, TypeScript, Node, API-REST
                                      📫 Como chegar até mim: kelson.m.camargo@hotmail.com
                                      😄 Pronomes: Ele/Dele
 
@@ -17,6 +18,7 @@
   <img align="center" alt="kelson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="kelson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="kelson-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
 ##
