@@ -1,7 +1,7 @@
                                                      OLÁ SEJA BEM VINDO AO MEU GITHUB👋
           
                                      🔭 Atualmente estou trabalhando na landing page da www.expaseway.com
-                                     🚀 Começando a estudar React Native
+                                     🚀 Estudando React Native e mongoDB
                                      🌱 Estou me aperfeiçoando em React, TypeScript, Node, API-REST
                                      📫 Como chegar até mim: kelson.m.camargo@hotmail.com
                                      😄 Pronomes: Ele/Dele
