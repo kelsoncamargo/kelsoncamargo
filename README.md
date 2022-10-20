@@ -1,4 +1,4 @@
-                                                     OLÁ SEJA BEM VINDO AO MEU GITHUB👋
+                                             OLÁ SEJA BEM VINDO AO MEU GITHUB👋
           
                               🔭 Atualmente estou trabalhando na landing page da www.expaseway.com
                               🚀 Estudando React Native e mongoDB
