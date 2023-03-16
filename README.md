@@ -1,10 +1,8 @@
-                                             OLÁ SEJA BEM VINDO AO MEU GITHUB👋
+                                               Hello, Welcome my GITHUB👋
           
-                              🔭 Atualmente estou trabalhando na landing page da www.expanseway.com
-                              🚀 Estudando React Native e mongoDB
-                              🌱 Estou me aperfeiçoando em React, TypeScript, Node, API-REST
-                              📫 Como chegar até mim: kelson.m.camargo@hotmail.com
-                              😄 Pronomes: Ele/Dele
+                              🚀 Learning Next e mongoDB
+                              🌱 I'm getting better at React, TypeScript, Node, API-REST
+                              📫 How to reach me: kelson.m.camargo@hotmail.com
 
 <div align="center">
   <a href="https://github.com/kelson-M-C">
