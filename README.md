@@ -4,11 +4,6 @@
                               🌱 I'm getting better at React, TypeScript, Node, API-REST
                               📫 How to reach me: kelson.m.camargo@hotmail.com
 
-<div align="center">
-  <a href="https://github.com/kelsoncamargo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelsoncamargo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelsoncamargo&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="kelson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
