@@ -1,6 +1,6 @@
                                                Hello, Welcome my GITHUB👋
           
-                              🚀 Learning Next e mongoDB
+                              🚀 Learning Next e Python
                               🌱 I'm getting better at React, TypeScript, Node, API-REST
                               📫 How to reach me: kelson.m.camargo@hotmail.com
 
