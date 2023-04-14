@@ -1,8 +1,8 @@
-                                               Hello, Welcome my GITHUB👋
-          
-                              🚀 Learning Next e Python
-                              🌱 I'm getting better at React, TypeScript, Node, API-REST
-                              📫 How to reach me: kelson.m.camargo@hotmail.com
+                                                                     Hello, Welcome my GITHUB👋
+
+                                                    🚀 Learning Next e Python
+                                                    🌱 I'm getting better at React, TypeScript, Node, API-REST
+                                                    📫 How to reach me: kelson.m.camargo@hotmail.com
 
 <div align="center">
   <a href="https://github.com/kelsoncamargo">
