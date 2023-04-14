@@ -1,4 +1,4 @@
-                                               Hello, Welcome my GITHUB👋
+                                                Hello, Welcome my GITHUB👋
           
                                       🚀 Learning Next e Python
                                       🌱 I'm getting better at React, TypeScript, Node, API-REST
