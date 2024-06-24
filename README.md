@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-<div align="left" max-width="450px">
+<div align="left" width="50%">
 <div align="center">
 Hello, Welcome my GITHUB</br></br>
 </div>
