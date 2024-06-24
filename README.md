@@ -1,5 +1,5 @@
 <div style="display: inline_block" align="center">
-<div>
+<div align="left">
 Hello, Welcome my GITHUB</br>
 🚀 Learning Nest e React Native</br>
 🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs</br>
