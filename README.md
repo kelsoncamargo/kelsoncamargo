@@ -1,4 +1,4 @@
-<div display="flex" align="center" flex-direction="collum">
+<div style="display: flex; align-items: center; flex-direction: column;">
 Hello, Welcome my GITHUB
 🚀 Learning Nest e React Native
 🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs
