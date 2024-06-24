@@ -1,11 +1,11 @@
 <div style="display: inline_block" align="center">
-<div style="align-self: left; max-width: 450px;">
-<div align="center">
-Hello, Welcome my GITHUB</br></br>
-</div>
-🚀 Learning Nest e React Native</br>
-🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs</br>
-📫 How to reach me: kelson.m.camargo@gmail.com</br></br></br>
+<div style="align: left; max-width: 450px;">
+  <div align="center">
+    Hello, Welcome my GITHUB</br></br>
+  </div>
+  🚀 Learning Nest e React Native</br>
+  🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs</br>
+  📫 How to reach me: kelson.m.camargo@gmail.com</br></br></br>
 </div>
 </div>
 
