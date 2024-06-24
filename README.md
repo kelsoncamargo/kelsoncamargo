@@ -1,8 +1,8 @@
-<div style="display: inline_block" align="center"><br>
-Hello, Welcome my GITHUB
-🚀 Learning Nest e React Native
-🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs
-📫 How to reach me: kelson.m.camargo@gmail.com
+<div style="display: inline_block" align="center">
+Hello, Welcome my GITHUB</br>
+🚀 Learning Nest e React Native</br>
+🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs</br>
+📫 How to reach me: kelson.m.camargo@gmail.com</br>
 </div>
 
 <div align="center">
