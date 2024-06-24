@@ -1,5 +1,5 @@
                                                 Hello, Welcome my GITHUB
-<div align="display: flex" align="center">
+<div align="display: flex" align="center flex-directiom=collum">
 🚀 Learning Nest e React Native
 🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs
 📫 How to reach me: kelson.m.camargo@gmail.com
