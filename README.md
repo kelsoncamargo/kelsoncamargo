@@ -1,9 +1,9 @@
 <div style="display: inline_block" align="center">
 <div align="left" widht="10%">
-Hello, Welcome my GITHUB</br>
+Hello, Welcome my GITHUB</br></br>
 🚀 Learning Nest e React Native</br>
 🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs</br>
-📫 How to reach me: kelson.m.camargo@gmail.com</br>
+📫 How to reach me: kelson.m.camargo@gmail.com</br></br></br>
 </div>
 </div>
 
