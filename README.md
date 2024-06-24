@@ -1,8 +1,9 @@
-                                                Hello, Welcome my GITHUB👋
-          
-                                      🚀 Learning Next e Python
-                                      🌱 I'm getting better at React, TypeScript, Node, API-REST
-                                      📫 How to reach me: kelson.m.camargo@hotmail.com
+                                                Hello, Welcome my GITHUB
+<div align="display: flex" align="center">
+🚀 Learning Nest e React Native
+🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs
+📫 How to reach me: kelson.m.camargo@gmail.com
+</div>
 
 <div align="center">
   <a href="https://github.com/kelsoncamargo">
@@ -13,8 +14,6 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="kelson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kelson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="kelson-JAVA" height="30" width="40" src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png">
-  <img align="center" alt="kelson-PYTHON" height="30" width="40" src="https://img.icons8.com/color/48/null/python--v1.png">
   <img align="center" alt="kelson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="kelson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
