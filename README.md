@@ -1,4 +1,4 @@
-<div style="display: flex; align-items: center; flex-direction: column;">
+<div style="display: inline_block" align="center"><br>
 Hello, Welcome my GITHUB
 🚀 Learning Nest e React Native
 🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs
