@@ -3,7 +3,7 @@
   <div align="center">
     Hello, Welcome my GITHUB</br></br>
   </div>
-  🚀 Learning Nest e React Native</br>
+  🚀 Learning React Native and SQL</br>
   🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs</br>
   📫 How to reach me: kelson.m.camargo@gmail.com</br></br></br>
 </div>
