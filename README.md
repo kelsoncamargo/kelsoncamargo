@@ -3,12 +3,10 @@
   <div align="center">
     Hello, Welcome my GITHUB</br></br>
   </div>
-    Kelson Camargo
-    
     Engenheiro de DevOps / back-end — APIs, automação e infraestrutura.
-    
+  
     **Stack:** Python  · FastAPI · Node.js · TypeScript · PostgreSQL · Redis · Docker · Linux · GitHub Actions · GitLab ·  AWS · Zabbix · Grafana ·  Prometheus
-    
+
     📫 kelson.m.camargo@gmail.com · in/kelsoncamargo
 </div>
 </div>
