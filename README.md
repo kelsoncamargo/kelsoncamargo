@@ -3,9 +3,14 @@
   <div align="center">
     Hello, Welcome my GITHUB</br></br>
   </div>
-<!--   🚀 Learning React Native and SQL</br> -->
-  🌱 I'm getting better at React, JavaScript, TypeScript, NodeJs</br>
-  📫 How to reach me: kelson.m.camargo@gmail.com</br></br></br>
+    ### Kelson Camargo
+    
+    Engenheiro de back-end — APIs, automação e infraestrutura.
+    
+    **Stack:** Python · Node.js · TypeScript · PostgreSQL ·
+    Docker · Linux · GitHub Actions
+    
+    📫 kelson.m.camargo@gmail.com · in/kelsoncamargo
 </div>
 </div>
 
