@@ -1,6 +1,6 @@
 ### Kelson Camargo
 
-Software Engineer
+Desenvolvedor back-end e DevOps
 
 **Stack:** Python  · FastAPI · Node.js · TypeScript · PostgreSQL · Redis · Docker · Linux · GitHub Actions · GitLab ·  AWS · Zabbix · Grafana ·  Prometheus
 
